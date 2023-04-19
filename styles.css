@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.banner{
+    background-image: url(https://cdn.pixabay.com/photo/2016/12/11/12/02/mountains-1899264_1280.jpg);
+    background-size: cover; /*acomoda la imagen*/
+    background-position: center;
+    height: 100vh; /*ajusta la pantalla a diferentes dispositivos*/
+    background-repeat: none ;
+}
